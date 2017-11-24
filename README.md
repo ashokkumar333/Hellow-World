@@ -2,4 +2,4 @@
 
 Hi everyone!
 
-Ashok Here : verymuch interested on vba java and j2ee.. looking for the project to devolap myself
+Ashok Here : verymuch interested on vba java and j2ee.. looking for the projects to develop myself
